@@ -28,7 +28,7 @@
     "web"
   ],
   "dependencies": {
-    "phantomjs-prebuilt": "github:Chewey-Bot/phantomjs#d80c1b64b76c6780febaebef22c9b887a5ac8f5a"
+    "phantomjs-prebuilt": "github:Chewey-Bot/phantomjs#9d5dc90aa673b67c23dce45bcbc6c8d952b6d742"
   },
   "devDependencies": {
     "ava": "*"
